@@ -1,7 +1,6 @@
 # Runden und Gruppieren: ein Näherungsschema – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-naeherungsschema-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-naeherungsschema-demo.streamlit.app/)**
 
 Stück 6 (gelb) der Konzepte-Reihe **„Packen: Reihenfolge und Platzierungsregel“** für die Website „Sebastian Hanisch – Operations Research und Machine Learning“ (ein Verfahren mit wachsendem Beispiel: eine Packung entsteht aus einer Reihenfolge der Teile und einer Regel, wohin das nächste kommt). Die Stücke davor haben FFD und seine Schranken untersucht; dieses Stück fragt umgekehrt, was ein **Näherungsschema** liefert, das große Pakete **rundet und gruppiert**, die gerundete Instanz **exakt** löst und die kleinen Pakete zuletzt auffüllt. Es ist ein gelbes Stück: Die Zahlen, die die Rechnung für eine garantierte Güte verlangt, sind rechnerisch absurd; die Demo zeigt, wie früh.
 
