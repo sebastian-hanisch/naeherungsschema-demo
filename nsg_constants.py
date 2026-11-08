@@ -62,7 +62,7 @@ PRESET_HELP = {
     "Beispiel 1: eps 0,25, 3 Gruppen": "Zwölf Pakete, das Optimum ist 5 und FFD findet es. Das Schema rundet die acht großen Pakete auf nur drei Größen und braucht 6: Die Rundung kostet einen Container.",
     "Beispiel 1: eps 0,25, 6 Gruppen": "Dieselben Pakete mit sechs Gruppen: Die Rundung ist feiner, das Schema braucht wieder 5.",
     "Beispiel 2: eps 0,1, 12 Gruppen (ohne Rundung)": "Zwölf andere Pakete: FFD braucht 6, das Optimum ist 5. Mit zwölf Gruppen ist jedes Paket eine eigene Gruppe, es wird nicht gerundet, und das Schema löst die großen Pakete exakt: 5, besser als FFD.",
-    "Beispiel 2: eps 0,25, 6 Gruppen": "Dieselben Pakete mit der Rundung: 6 Container wie FFD. Das Schema schlägt FFD nur, wenn es kaum rundet.",
+    "Beispiel 2: eps 0,25, 6 Gruppen": "Dieselben Pakete mit der Rundung: 6 Container wie FFD. Das Schema schlägt FFD nur selten und dann nur bei feiner Rundung.",
     "Zufällig, 30 mittlere Pakete, eps 0,2, 25 Gruppen": "Dreißig zufällige Pakete (10 bis 50 % der Kapazität): Mit 25 Gruppen, so vielen, wie die Rechnung der Demo für eps = 0,2 verlangt, braucht die Tiefensuche schon 83 Knoten; FFD und das Schema brauchen beide 10.",
 }
 
